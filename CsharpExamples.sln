@@ -1,19 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-#
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter3", "Chapter3\Chapter3.csproj", "{9AC97B53-EDD9-4D50-BE7A-79F7ECD19A2B}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter3", "Chapter3\Chapter3.csproj", "{9AC97B53-EDD9-4D50-BE7A-79F7ECD19A2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{5DCCBE6C-1FBC-4145-963D-E81FA8DE0318}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{5DCCBE6C-1FBC-4145-963D-E81FA8DE0318}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamReaderExample", "StreamReaderExample\StreamReaderExample.csproj", "{64646784-D902-46E6-A98E-F032A34D16E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamReaderExample", "StreamReaderExample\StreamReaderExample.csproj", "{64646784-D902-46E6-A98E-F032A34D16E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml_reader", "xml_reader\xml_reader.csproj", "{A7A1F0D0-81E9-4FBB-A834-4221D91DE815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter5", "Chapter5\Chapter5.csproj", "{8D6C7D54-26E8-4D71-989B-8A874342099D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chapter5", "Chapter5\Chapter5.csproj", "{8D6C7D54-26E8-4D71-989B-8A874342099D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordscount", "wordscount\wordscount.csproj", "{F641CF3F-14D8-4E32-892E-1A6C928A2D82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wordscount", "wordscount\wordscount.csproj", "{F641CF3F-14D8-4E32-892E-1A6C928A2D82}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipFiles", "ZipFiles\ZipFiles.csproj", "{BC012932-A30E-449C-8200-248C00F6F5D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadUnoOperators", "OverloadUnoOperators\OverloadUnoOperators.csproj", "{B440EC5F-5D29-4BBC-8D74-9859A291144F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,5 +53,15 @@ Global
 		{BC012932-A30E-449C-8200-248C00F6F5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC012932-A30E-449C-8200-248C00F6F5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC012932-A30E-449C-8200-248C00F6F5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F382873-0F90-4462-8774-41E90339AF2F}
 	EndGlobalSection
 EndGlobal
