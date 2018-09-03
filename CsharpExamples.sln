@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wordscount", "wordscount\wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipFiles", "ZipFiles\ZipFiles.csproj", "{BC012932-A30E-449C-8200-248C00F6F5D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadUnoOperators", "OverloadUnoOperators\OverloadUnoOperators.csproj", "{B440EC5F-5D29-4BBC-8D74-9859A291144F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadUnoOperators", "OverloadUnoOperators\OverloadUnoOperators.csproj", "{B440EC5F-5D29-4BBC-8D74-9859A291144F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{24057073-03C1-4463-8CA4-C1B6AFA7AD44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B440EC5F-5D29-4BBC-8D74-9859A291144F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24057073-03C1-4463-8CA4-C1B6AFA7AD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24057073-03C1-4463-8CA4-C1B6AFA7AD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24057073-03C1-4463-8CA4-C1B6AFA7AD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24057073-03C1-4463-8CA4-C1B6AFA7AD44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
